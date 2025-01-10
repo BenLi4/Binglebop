@@ -3,6 +3,6 @@ public class Main {
         System.out.println("Blah");
         System.out.println("Spain");
         System.out.println("GEHAHAHAHAHAHAHA");
-        System.out.println("YOLO");
+        System.out.println("Pizza Time");
     }
 }
